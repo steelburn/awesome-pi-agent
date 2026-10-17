@@ -80,6 +80,7 @@ The official project and its immediate family.
 Web, desktop, mobile, and editor faces for the same agent.
 
 - [agent-desktop](https://github.com/BaLaurent/agent-desktop) — Desktop application with native UI.
+- [pi-chamber](https://github.com/WillianQ/pi-chamber) — Remote browser control room: concurrent sessions, files, and real terminals; another device takes over the live session with replay.
 - [pi-coding-agent (Emacs)](https://github.com/dnouri/pi-coding-agent) — Emacs frontend, because of course there's an Emacs frontend.
 - [pi-desktop](https://github.com/gustavonline/pi-desktop) — Native desktop shell (Tauri + Lit), extension-first and multi-session aware.
 - [pi-gui](https://github.com/minghinmatthewlam/pi-gui) — Electron GUI app for the pi runtime.
