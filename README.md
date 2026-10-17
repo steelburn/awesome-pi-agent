@@ -145,6 +145,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 
 ## UI & Interaction
 
+- [better-pi-voice](https://github.com/sfgartland/better-pi-voice) — Streaming voice input (Deepgram or local Parakeet) biased with your repo's vocabulary.
 - [pi-annotate](https://github.com/nicobailon/pi-annotate) — Visual feedback from browser to agent: click elements, add comments, fix code.
 - [pi-canvas](https://github.com/jyaunches/pi-canvas) — Interactive TUI canvases (calendar, document, flights) rendered inline.
 - [pi-code-render](https://github.com/chengyayu/pi-code-render) — Renders fenced code blocks as theme-colored cards with a one-click `[COPY]` button and a click-to-toggle raw-text view.
